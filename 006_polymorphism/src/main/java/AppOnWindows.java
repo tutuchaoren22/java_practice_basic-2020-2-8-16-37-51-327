@@ -1,5 +1,5 @@
-public class appOnWindows {
-    public appOnWindows() {
+public class AppOnWindows {
+    public AppOnWindows() {
     }
 
     public void printF5(){
