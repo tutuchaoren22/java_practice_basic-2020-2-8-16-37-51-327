@@ -1,4 +1,4 @@
-public class Idea extends AppOnWindows{
+public class Idea extends AppOnWindows {
     public Idea() {
     }
 

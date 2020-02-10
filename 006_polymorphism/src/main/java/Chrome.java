@@ -1,4 +1,4 @@
-public class Chrome extends  AppOnWindows{
+public class Chrome extends AppOnWindows {
     public Chrome() {
     }
 
