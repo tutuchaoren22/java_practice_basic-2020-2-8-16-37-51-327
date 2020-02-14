@@ -1,7 +1,4 @@
 public class Wechat extends AppOnWindows {
-    public Wechat() {
-    }
-
     @Override
     public void printF5() {
         super.printF5();
